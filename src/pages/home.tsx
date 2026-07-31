@@ -30,7 +30,7 @@ export default function HomePage() {
           <Card imageUrl={soda3} title="Blueberry Soda" description="Fresh, bubbly, delicious fizzy." buttonLabel="View Details ->" buttonVariant="primary" />
         </section>
         
-        <section className="bg-[#5A3FC0] text-white text-center py-50 px-10">
+        <section className="bg-[#5A3FC0] text-white text-center py-20 px-10">
             <h1 className="text-7=xl md:text-7xl font-bold text-center text-white-900 mb-6">READY TO ORDER?</h1>
             <p className="max-w-4xl mx-auto">Our best-selling drinks and desserts are loved for their refreshing flavors and quality. Find your next favorite
                 and experience the freshness in every bite and sip. Handcrafted daily using only the
